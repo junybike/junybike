@@ -12,9 +12,9 @@ Involvement:
 - Private BC K-12 Math Tutor 📏
 
 Interests / Hobbies:
-- Daily LeetCode problem 🔥
+- Daily LeetCode problems 🔥
 - Software development with C++ (Check out BugFoundry and gpa-meter!) 🔧
-- Developing games / in-game features in Roblox Studio 🕹️
+- In-game features development in Roblox Studio 🕹️
  
 <!-- 
 **junybike/junybike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
