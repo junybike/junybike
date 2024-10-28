@@ -3,15 +3,20 @@
 Welcome to my GitHub profile!  
 My name is Jason and currently majoring in CS at SFU.
 
-Current goal:
+```C++
+class Jason
+```
+
+
+### Current goal 🎯
 - Landing on to my first CO-OP position as a Software Engineer 🖥️ / Firmware Engineer ⚙️ / Code Tester 📝
 - Achieving a Private Pilot License and flying around the nation 🛩️
 
-Involvement:
+### Involvement 🏢
 - SFU CS Peer Tutor 🧑‍🏫
 - Private BC K-12 Math Tutor 📏
 
-Interests / Hobbies:
+### Interests / Hobbies 🎲
 - Daily LeetCode problems 🔥
 - Software development with C++ (Check out BugFoundry and gpa-meter!) 🔧
 - In-game features development in Roblox Studio 🕹️
