@@ -3,11 +3,6 @@
 Welcome to my GitHub profile!  
 My name is Jason and currently majoring in CS at SFU.
 
-```C++
-class Jason
-```
-
-
 ### Current goal 🎯
 - Landing on to my first CO-OP position as a Software Engineer 🖥️ / Firmware Engineer ⚙️ / Code Tester 📝
 - Achieving a Private Pilot License and flying around the nation 🛩️
