@@ -5,7 +5,6 @@ My name is Jason and currently majoring in CS at SFU.
 
 ### Current goal 🎯
 - Landing on to my first CO-OP position as a Software Engineer 🖥️ / Firmware Engineer ⚙️ / Code Tester 📝
-- Achieving a Private Pilot License and flying around the nation 🛩️
 
 ### Involvement 🏢
 - SFU CS Peer Tutor 🧑‍🏫
