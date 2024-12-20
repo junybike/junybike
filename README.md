@@ -12,8 +12,8 @@ My name is Jason and currently majoring in Computing Science at SFU.
 
 ### Interests / Hobbies 🎲
 - Daily LeetCode problems 🔥
-- Following interesting project tutorials on YouTube 🏗️ 
-- Software development with C++ (Check out BugFoundry and gpa-meter!) 🔧
+- Software development with C++ (check out SFML workspace!) 🔧
+- Following interesting project tutorials on YouTube (check out Pokemon Dictionary!) 🏗️ 
 - In-game features development in Roblox Studio 🕹️
  
 <!-- 
