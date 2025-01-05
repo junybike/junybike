@@ -14,7 +14,7 @@ My name is Jason and currently majoring in Computing Science at SFU.
 - Daily LeetCode problems 🔥
 - Software development with C++ (check out SFML development!) 🔧
 - Following interesting project tutorials on YouTube (check out Pokemon Dictionary!) 🏗️ 
-- In-game features development in Roblox Studio 🕹️ (check out [Drive On Highways](https://www.roblox.com/games/4566564383/Drive-on-Highways-ALPHA))
+- In-game features development in Roblox Studio 🕹️ (check out [Drive On Highways](https://www.roblox.com/games/4566564383/Drive-on-Highways-ALPHA)!)
  
 <!-- 
 **junybike/junybike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
