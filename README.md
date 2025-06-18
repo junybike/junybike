@@ -12,7 +12,7 @@ My name is Jason and currently majoring in Computing Science at SFU.
 
 ### Interests / Hobbies 🎲
 - Daily LeetCode problems 🔥
-- Software development with C++ (check out SFML development!) 🔧
+- Software development with C++ (check out SFMLproject1!) 🔧
 - Following interesting project tutorials on YouTube (check out Pokemon Dictionary!) 🏗️ 
 - In-game features development in Roblox Studio 🕹️ (check out [Drive On Highways](https://www.roblox.com/games/4566564383/Drive-on-Highways-ALPHA)!)
  
